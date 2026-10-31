@@ -1,4 +1,4 @@
-# Mehmet Gök Alp Mersin
+# Mehmet Gökalp Mersin
 
 <p align="center">
   <strong>Baykar Fen Lisesi · Bilişim Teknolojileri Öğrencisi</strong><br>
