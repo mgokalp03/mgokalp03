@@ -1,28 +1,30 @@
  <div align="center">
 
-# Mehmet Gökalp Mersin
+Mehmet Gökalp Mersin
 
-### Information Technologies Student at Baykar Fen Lisesi (BFL)
+Baykar Fen Lisesi · Bilişim Teknolojileri Öğrencisi
 
-**AI · Robotics · Software Development**
+AI · Robotics · Software Development
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mgokalp03&style=flat-square&color=7c3aed)](https://github.com/mgokalp03)
+
 
 </div>
 
----
+About Me
 
-## About
+I'm a student at Baykar Fen Lisesi (BFL), passionate about exploring technology and building things through hands-on projects.
 
-I'm an Information Technologies student at **Baykar Fen Lisesi (BFL)**, interested in exploring technology through hands-on projects.
+Exploring Artificial Intelligence, Machine Learning and Local AI Models.
 
-- Exploring Artificial Intelligence, Machine Learning and Local AI Models.
-- Interested in Robotics, Programming and Simulation.
-- Building **NodeMind OS** and experimenting with AI-powered systems.
-- Working with C++, Python, Java and other technologies.
-- Always learning, experimenting and building.
+Interested in Robotics, Programming and Simulation.
 
-## Education & Teams
+Developing NodeMind OS, an AI-focused project.
+
+Working with C++, Python, Java and other technologies.
+
+Always learning, experimenting and building new things.
+
+Education & Teams
 
 <div align="center">
 
@@ -30,35 +32,35 @@ I'm an Information Technologies student at **Baykar Fen Lisesi (BFL)**, interest
 <tr>
 <td align="center" width="33%">
 
-### Baykar Fen Lisesi
+Baykar Fen Lisesi
 
-**BFL**
+BFL
 
-Information Technologies Student
+Bilişim Teknolojileri Öğrencisi
 
-[School Website ↗](https://baykarfenlisesi.com/tr)
+School Website ↗
 
 </td>
 <td align="center" width="33%">
 
-### Tulpar Robotics
+Tulpar Robotics
 
-**34034A**
+34034A
 
 VEX V5 Robotics Team
 
-[Team Website ↗](https://tulparteam.com/)
+Team Website ↗
 
 </td>
 <td align="center" width="33%">
 
-### Cymurhgs
+Cymurhgs
 
-**7466**
+7466
 
 Rookie Member
 
-[Team Website ↗](https://www.cymurghs7466.com/)
+Team Website ↗
 
 </td>
 </tr>
@@ -66,36 +68,36 @@ Rookie Member
 
 </div>
 
-## Projects & Interests
+Projects & Interests
 
 <table>
 <tr>
 <td width="50%">
 
-### NodeMind OS
+NodeMind OS
 
-Exploring AI-powered systems and local AI.
+Exploring AI-powered systems, local AI models and intelligent applications.
 
 </td>
 <td width="50%">
 
-### Robotics
+Robotics
 
-VEX V5, robot programming and team projects.
+VEX V5, Cymughs 7466 and collaborative team projects.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### Simulation
+Simulation
 
-Exploring real-time environments and simulation tools.
+Exploring real-time environments, game engines and virtual simulations.
 
 </td>
 <td width="50%">
 
-### Software Development
+Software Development
 
 Building applications, tools and experimental projects.
 
@@ -103,21 +105,21 @@ Building applications, tools and experimental projects.
 </tr>
 </table>
 
-## Tech Stack
+Tech Stack
 
-### Programming Languages
+Programming Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,java,cs,html" alt="C++, Python, Java, C#, HTML"/>
 </p>
 
-### Tools & Platforms
+Tools & Platforms
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ubuntu,unreal,unity,git,github,vscode" alt="Ubuntu, Unreal Engine, Unity, Git, GitHub, VS Code"/>
 </p>
 
-## GitHub Statistics
+GitHub Statistics
 
 <div align="center">
 
@@ -135,16 +137,16 @@ Building applications, tools and experimental projects.
 
 </div>
 
-## Connect
+Connect
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-m.gokalp.m-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/m.gokalp.m)
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokalpmersin0303@gmail.com)
+
+
 
 <br/>
 
-**Keep Learning. Keep Building.**
+Keep Learning. Keep Building.
 
 </div>
