@@ -1,4 +1,4 @@
-# Mehmet Gök Alp Mersin
+# Mehmet Gökalp Mersin
 
 <p align="center">
   <strong>Baykar Fen Lisesi · Bilişim Teknolojileri Öğrencisi</strong><br>
@@ -9,39 +9,23 @@
 
 ## About Me
 
-Teknolojiyi yalnızca kullanmak değil, nasıl çalıştığını anlamak ve kendi fikirlerimi çalışan projelere dönüştürmek istiyorum.
-
-- Yapay zekâ, makine öğrenmesi ve yerel AI sistemleri üzerine çalışıyorum.
-- Robotik ve simülasyon projeleriyle yazılımı gerçek dünyayla buluşturmayı seviyorum.
-- Yeni teknolojileri öğrenmeye, denemeye ve kendi projelerimi geliştirmeye odaklanıyorum.
+- Baykar Fen Lisesi'nde Bilişim Teknolojileri öğrencisiyim.
+- Yapay zekâ, makine öğrenmesi ve yerel yapay zekâ sistemleriyle ilgileniyorum.
+- Robotik, simülasyon ve yazılım geliştirme üzerine projeler yapıyorum.
 - Şu anda üzerinde çalıştığım projelerden biri **NodeMind OS**.
 
-## Education
+## Education & Teams
 
-| Organization | Information |
+| Organization | Role / Information |
 |---|---|
 | [Baykar Fen Lisesi](https://baykarfenlisesi.com/tr) | Bilişim Teknolojileri Öğrencisi |
-
-## Robotics
-
-<p align="center">
-  <a href="https://tulparteam.com/">
-    <strong>TULPAR · 34034A</strong>
-  </a>
-  <br>
-  VEX V5 Robotics
-  <br><br>
-  <a href="https://www.cymurghs7466.com/">
-    <strong>CYMURHGS · 7466</strong>
-  </a>
-  <br>
-  Rookie Member
-</p>
+| [Tulpar – 34034A](https://tulparteam.com/) | VEX V5 Robotics |
+| [Cymurhgs – 7466](https://www.cymurghs7466.com/) | Rookie Member |
 
 ## Projects & Interests
 
 - **NodeMind OS** — Local AI and operating system concepts.
-- **Robotics** — VEX robotics and team projects.
+- **Robotics** — Tulpar – 34034A & Cymurhgs – 7466.
 - **Simulation** — Unreal Engine and Unity-based simulation projects.
 - **Software Development** — Building applications and exploring new technologies.
 
