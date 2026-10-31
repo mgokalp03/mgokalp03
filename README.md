@@ -1,5 +1,6 @@
-# Mehmet Gökalp Mersin
-
+<p align="center">
+  <strong> Mehmet Gökalp MERSIN</strong><br>
+</p>
 <p align="center">
   <strong>Baykar Fen Lisesi · Bilişim Teknolojileri Öğrencisi</strong><br>
   AI · Robotics · Software Development
