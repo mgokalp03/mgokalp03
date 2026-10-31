@@ -1,111 +1,150 @@
-# Hey 👋, I'm Mehmet Gökalp Mersin
+ <div align="center">
 
-<h3 align="center">Information Technologies Student at BLF | AI & Robotics Enthusiast | Developer</h3>
+# Mehmet Gökalp Mersin
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mgokalp03&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views" />
-</p>
+### Information Technologies Student at Baykar Fen Lisesi (BFL)
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mgokalp03&theme=discord&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
-  </a>
-</p>
+**AI · Robotics · Software Development**
+
+[![Profile Views](https://komarev.com/ghpvc/?username=mgokalp03&style=flat-square&color=7c3aed)](https://github.com/mgokalp03)
+
+</div>
 
 ---
 
-### 🧠 About Me
+## About
 
-- 🇹🇷 Information Technologies Student at **BLF (Baykar Fen Lisesi)**.
-- 🤖 Passionate about **Artificial Intelligence, Robotics, and Autonomous Systems**.
-- 🧠 Exploring **AI/ML, Local AI Models, and AI-powered systems**.
-- 🚁 Interested in UAV simulation, autonomous flight, and robotics software.
-- 🏆 Member of **Tulpar VEX Robotics – 34034A**.
-- ⚙️ Exploring game engines, physics simulations, and software development.
-- 🚀 Currently working on **NodeMind OS** and other experimental projects.
+I'm an Information Technologies student at **Baykar Fen Lisesi (BFL)**, interested in exploring technology through hands-on projects.
 
-### 🔭 Projects & Activities
+- Exploring Artificial Intelligence, Machine Learning and Local AI Models.
+- Interested in Robotics, Programming and Simulation.
+- Building **NodeMind OS** and experimenting with AI-powered systems.
+- Working with C++, Python, Java and other technologies.
+- Always learning, experimenting and building.
 
-| Project / Team | Description |
-|---|---|
-| 🧠 NodeMind OS | AI-focused operating system project |
-| 🚁 TEKNOFEST | Döner Kanat İHA simulation and autonomous systems |
-| 🤖 Tulpar – 34034A | VEX V5 Robotics Team |
-| 🤖 Cymurhgs – 7466 | Robotics Team |
+## Education & Teams
 
-### 💻 Languages
+<div align="center">
 
-<p align="left">
-  <a href="https://isocpp.org/">
-    <img src="https://skillicons.dev/icons?i=cpp" width="45" alt="C++"/>
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://skillicons.dev/icons?i=python" width="45" alt="Python"/>
-  </a>
-  <a href="https://www.java.com/">
-    <img src="https://skillicons.dev/icons?i=java" width="45" alt="Java"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://skillicons.dev/icons?i=cs" width="45" alt="C#"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML"/>
-  </a>
-</p>
+<table>
+<tr>
+<td align="center" width="33%">
 
-### ⚙️ Tools & Technologies
+### Baykar Fen Lisesi
 
-<p align="left">
-  <a href="https://ubuntu.com/">
-    <img src="https://skillicons.dev/icons?i=ubuntu" width="45" alt="Ubuntu"/>
-  </a>
-  <a href="https://www.unrealengine.com/">
-    <img src="https://skillicons.dev/icons?i=unreal" width="45" alt="Unreal Engine"/>
-  </a>
-  <a href="https://unity.com/">
-    <img src="https://skillicons.dev/icons?i=unity" width="45" alt="Unity"/>
-  </a>
-  <a href="https://www.ros.org/">
-    <img src="https://skillicons.dev/icons?i=ros" width="45" alt="ROS 2"/>
-  </a>
-  <a href="https://www.gazebosim.org/">
-    <img src="https://skillicons.dev/icons?i=gazebo" width="45" alt="Gazebo"/>
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" width="45" alt="Git"/>
-  </a>
-  <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://skillicons.dev/icons?i=vscode" width="45" alt="VS Code"/>
-  </a>
-</p>
+**BFL**
 
-### 📊 GitHub Statistics
+Information Technologies Student
+
+[School Website ↗](https://baykarfenlisesi.com/tr)
+
+</td>
+<td align="center" width="33%">
+
+### Tulpar Robotics
+
+**34034A**
+
+VEX V5 Robotics Team
+
+[Team Website ↗](https://tulparteam.com/)
+
+</td>
+<td align="center" width="33%">
+
+### Cymurhgs
+
+**7466**
+
+Rookie Member
+
+[Team Website ↗](https://www.cymurghs7466.com/)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+## Projects & Interests
+
+<table>
+<tr>
+<td width="50%">
+
+### NodeMind OS
+
+Exploring AI-powered systems and local AI.
+
+</td>
+<td width="50%">
+
+### Robotics
+
+VEX V5, robot programming and team projects.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Simulation
+
+Exploring real-time environments and simulation tools.
+
+</td>
+<td width="50%">
+
+### Software Development
+
+Building applications, tools and experimental projects.
+
+</td>
+</tr>
+</table>
+
+## Tech Stack
+
+### Programming Languages
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mgokalp03&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgokalp03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,cs,html" alt="C++, Python, Java, C#, HTML"/>
 </p>
+
+### Tools & Platforms
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mgokalp03&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://skillicons.dev/icons?i=ubuntu,unreal,unity,git,github,vscode" alt="Ubuntu, Unreal Engine, Unity, Git, GitHub, VS Code"/>
 </p>
 
-### 🌐 Connect With Me
+## GitHub Statistics
 
-<p align="left">
-  <a href="https://instagram.com/m.gokalp.m" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram"/>
-  </a>
-  <a href="mailto:gokalpmersin0303@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email"/>
-  </a>
-</p>
+<div align="center">
 
----
+<a href="https://github.com/mgokalp03">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mgokalp03&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+</a>
 
-<p align="center">
-  <i>"Building things, breaking things, and learning how to make them better."</i>
-</p>
+<a href="https://github.com/mgokalp03">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgokalp03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=mgokalp03&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+## Connect
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-m.gokalp.m-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/m.gokalp.m)
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokalpmersin0303@gmail.com)
+
+<br/>
+
+**Keep Learning. Keep Building.**
+
+</div>
